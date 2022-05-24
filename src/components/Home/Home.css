@@ -1,0 +1,11 @@
+.myClasses{
+    background-color:azure;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
